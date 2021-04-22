@@ -1,0 +1,2 @@
+export const GET_CATEGORY_LIST = "GET_CATEGORY_LIST";
+export const GET_RANDOM_JOKE = " GET_RANDOM_JOKE";
